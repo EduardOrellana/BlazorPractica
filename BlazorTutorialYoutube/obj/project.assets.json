@@ -4506,11 +4506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eduardorellana/Desktop/TutorialCompletoBlazor/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
+      "projectUniqueName": "/Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
       "projectName": "BlazorTutorialYoutube",
-      "projectPath": "/Users/eduardorellana/Desktop/TutorialCompletoBlazor/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
+      "projectPath": "/Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
       "packagesPath": "/Users/eduardorellana/.nuget/packages/",
-      "outputPath": "/Users/eduardorellana/Desktop/TutorialCompletoBlazor/BlazorTutorialYoutube/obj/",
+      "outputPath": "/Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eduardorellana/.nuget/NuGet/NuGet.Config"

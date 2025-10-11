@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "me4eiPlu3po=",
+  "dgSpecHash": "EcYPBTt4Eg8=",
   "success": true,
-  "projectFilePath": "/Users/eduardorellana/Desktop/TutorialCompletoBlazor/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
+  "projectFilePath": "/Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/BlazorTutorialYoutube.csproj",
   "expectedPackageFiles": [
     "/Users/eduardorellana/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/eduardorellana/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
