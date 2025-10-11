@@ -405,3 +405,4 @@
 /Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/obj/Debug/net8.0/BlazorTutorialYoutube.pdb
 /Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/obj/Debug/net8.0/BlazorTutorialYoutube.genruntimeconfig.cache
 /Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/obj/Debug/net8.0/ref/BlazorTutorialYoutube.dll
+/Users/eduardorellana/Documents/BlazorPractica/BlazorTutorialYoutube/bin/Debug/net8.0/appsettings.Production.json

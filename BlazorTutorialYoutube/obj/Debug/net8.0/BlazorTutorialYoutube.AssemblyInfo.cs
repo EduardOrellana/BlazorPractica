@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorTutorialYoutube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41731a90127f38e8bbd98322c6c3ed2eb7cf7691")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae9a4b9b3ac3cf8c9878855113576fbfa373e49")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorTutorialYoutube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorTutorialYoutube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
